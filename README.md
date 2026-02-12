@@ -2,7 +2,7 @@
 
 > Uma solução SaaS (Software as a Service) desenvolvida para modernizar a triagem e o acompanhamento clínico de psicólogos e terapeutas.
 
-![Capa do Projeto]([https://prnt.sc/PPjQIrFopICd])
+![https://prnt.sc/PPjQIrFopICd]
 
 ## 🎯 O Problema
 Profissionais da psicologia perdiam tempo buscando PDFs com má qualidade na web para impressão. Isso gerava atrito no atendimento online, visto que não existiam maneiras de usar a ferramente e, ainda, passava uma imagem pouco tecnológica e profissional em atendimentos presenciais.
@@ -27,7 +27,7 @@ Desenvolvi uma aplicação web interativa onde o paciente preenche os dados via 
 
 ## 🔒 Status do Código
 Este é um projeto comercial de código fechado.
-🔗 **Acesse a aplicação (Demo):** [https://roda-da-vida.streamlit.app/]
+🔗 **Acesse a aplicação (Demo):** https://roda-da-vida.streamlit.app/
 
 ---
-Desenvolvido por [@apsi.fernanda]
+Desenvolvido por @apsi.fernanda | Psicologia e Sistemas
